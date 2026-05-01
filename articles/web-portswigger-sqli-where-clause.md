@@ -1,5 +1,5 @@
 ---
-title: "【PortSwigger】SQL injection vulnerability in WHERE clause allowing retrieval of hidden data"
+title: "【PortSwigger】SQL injection vulnerability in WHERE clause"
 emoji: "🛡️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["security", "ctf", "web"]
